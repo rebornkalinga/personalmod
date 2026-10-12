@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "rebornkalinga",
 	"version": "${version}",
-	"name": "@rebornkalinga",
+	"name": "personalmod",
 	"description": "rebornkalinga's personal mod",
 	"authors": [
 		"rebornkalinga"
