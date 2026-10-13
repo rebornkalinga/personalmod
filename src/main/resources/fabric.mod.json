@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "rebornkalinga",
 	"version": "${version}",
-	"name": "personalmod",
+	"name": "@rebornkalinga",
 	"description": "rebornkalinga's personal mod",
 	"authors": [
 		"rebornkalinga"
@@ -15,8 +15,7 @@
 	"icon": "assets/personalmod/icon.png",
 	"environment": "*",
 	"entrypoints": {
-		"main": [
-		],
+		"main": ["name.rebornkalinga.Personalmod"],
 		"fabric-datagen": [
 		]
 	},
